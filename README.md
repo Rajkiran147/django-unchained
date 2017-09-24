@@ -1,2 +1,2 @@
-# django-unchained-
+# django-unchained
 Learning django
